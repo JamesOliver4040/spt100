@@ -1,0 +1,5 @@
+# This tells GitHub Pages not to process files with Jekyll
+touch .nojekyll
+git add .nojekyll
+git commit -m "Add .nojekyll for XML support"
+git push origin master
