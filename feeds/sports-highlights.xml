@@ -1,18 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:pinterest="http://pinterest.com/ns/" xmlns:og="http://ogp.me/ns#">
-<channel>
-  <title>Sports Highlights Test</title>
-  <description>Test feed for GitHub integration</description>
-  <lastBuildDate>Fri, 11 Jul 2025 15:51:48 GMT</lastBuildDate>
-  <item>
-    <title>Test Post - 1752249108963</title>
-    <description>This is a test item to verify GitHub push functionality</description>
-    <link>https://example.com/test</link>
-    <guid>test-1752249108963</guid>
-    <pubDate>Fri, 11 Jul 2025 15:51:48 GMT</pubDate>
-    <pinterest:image>https://via.placeholder.com/600x900?text=Test+Image</pinterest:image>
-    <pinterest:description>Test description for Pinterest</pinterest:description>
-    <og:url>https://example.com/test</og:url>
-  </item>
-</channel>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:pinterest="http://pinterest.com/ns/" xmlns:og="http://ogp.me/ns#">
+    <channel>
+        <title><![CDATA[Sports Highlights]]></title>
+        <description><![CDATA[Latest sports highlights and news]]></description>
+        <link>https://www.onlytrustedinfo.com/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 11 Jul 2025 16:09:38 GMT</lastBuildDate>
+        <atom:link href="https://jamesoliver4040.github.io/spt100/feeds/sports-highlights.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Fri, 11 Jul 2025 16:09:38 GMT</pubDate>
+        <language><![CDATA[en]]></language>
+        <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Fernando Tatis Jr. and Manny Machado hit leadoff homers in Padres 4-3 win over Diamondbacks]]></title>
+            <description><![CDATA[<p>Fernando Tatis Jr. and Manny Machado Power Leadoff Homers as Padres Secure 4-3 Victory Over Diamondbacks  Fernando Tatis Jr. and Manny Machado Power Leadoff Homers as Padres Secure 4-3 Victory Over Diamondbacks  Copy SummarizeDelete</p>]]></description>
+            <link>https://www.onlytrustedinfo.com/fernando-tatis-jr-and-manny-machado-hit-leadoff-homers-in-padres-4-3-win-over-diamondbacks/</link>
+            <guid isPermaLink="false">148149</guid>
+            <category><![CDATA[Sports News]]></category>
+            <pubDate>Fri, 11 Jul 2025 16:09:38 GMT</pubDate>
+            <pinterest:image>https://i2.wp.com/res.cloudinary.com/glide/image/fetch/https%3A%2F%2Fs.yimg.com%2Fny%2Fapi%2Fres%2F1.2%2F6vwwWMTNi.LVlnu3ImW8FQ--%2FYXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F9012bf7fca535c7b52ae7aac5056f3a5?ssl=1</pinterest:image>
+            <pinterest:description>Fernando Tatis Jr. and Manny Machado hit leadoff homers in Padres 4-3 win over Diamondbacks</pinterest:description>
+            <og:url>https://www.onlytrustedinfo.com/fernando-tatis-jr-and-manny-machado-hit-leadoff-homers-in-padres-4-3-win-over-diamondbacks/</og:url>
+        </item>
+        <item>
+            <title><![CDATA[Mariners pitcher Bryan Woo is working on a no-hitter at Yankee Stadium through 7 innings]]></title>
+            <description><![CDATA[<p>Bryan Woo Dominates at Yankee Stadium with a No-Hitter Through 7 Innings  Bryan Woo Dominates at Yankee Stadium with a No-Hitter Through 7 Innings  Copy SummarizeDelete</p>]]></description>
+            <link>https://www.onlytrustedinfo.com/mariners-pitcher-bryan-woo-is-working-on-a-no-hitter-at-yankee-stadium-through-7-innings/</link>
+            <guid isPermaLink="false">147770</guid>
+            <category><![CDATA[Sports News]]></category>
+            <pubDate>Fri, 11 Jul 2025 16:09:38 GMT</pubDate>
+            <pinterest:image>https://i3.wp.com/res.cloudinary.com/glide/image/fetch/https%3A%2F%2Fs.yimg.com%2Fny%2Fapi%2Fres%2F1.2%2FJ5GMAoaa6XWf92HHWeHhAw--%2FYXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F49ccde690957b3347836103df556ea6b?ssl=1</pinterest:image>
+            <pinterest:description>Mariners pitcher Bryan Woo is working on a no-hitter at Yankee Stadium through 7 innings</pinterest:description>
+            <og:url>https://www.onlytrustedinfo.com/mariners-pitcher-bryan-woo-is-working-on-a-no-hitter-at-yankee-stadium-through-7-innings/</og:url>
+        </item>
+    </channel>
 </rss>
